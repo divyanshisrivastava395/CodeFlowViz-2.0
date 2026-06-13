@@ -1,3 +1,5 @@
+// Breadth First Search (BFS) implementation for AST instrumentation testing
+
 const graph = {
   A: ["B", "C"],
   B: ["D"],

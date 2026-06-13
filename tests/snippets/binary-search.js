@@ -1,3 +1,5 @@
+// Binary Search implementation for AST instrumentation testing
+
 function binarySearch(arr, target) {
   let left = 0;
   let right = arr.length - 1;

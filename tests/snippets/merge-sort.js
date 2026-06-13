@@ -1,3 +1,5 @@
+// Merge Sort implementation for AST instrumentation testing
+
 function merge(left, right) {
   const result = [];
 

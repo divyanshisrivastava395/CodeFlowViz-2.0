@@ -1,3 +1,5 @@
+// Depth First Search (DFS) implementation for AST instrumentation testing
+
 const graph = {
   A: ["B", "C"],
   B: ["D"],
